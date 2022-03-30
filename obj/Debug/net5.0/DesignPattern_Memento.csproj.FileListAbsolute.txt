@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.exe
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.deps.json
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.dll
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\bin\Debug\net5.0\DesignPattern_Memento.pdb
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.dll
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\refint\DesignPattern_Memento.dll
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.pdb
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\DesignPattern_Memento.genruntimeconfig.cache
+C:\Users\Furkan Cengiz\Desktop\DesignPattern_Memento\obj\Debug\net5.0\ref\DesignPattern_Memento.dll
